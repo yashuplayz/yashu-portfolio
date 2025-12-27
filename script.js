@@ -88,6 +88,9 @@ sr.reveal('.about__profession', { delay: 400 })
 sr.reveal('.about__text', { delay: 500 })
 sr.reveal('.about__social-icon', { delay: 600, interval: 200 })
 
+/* -- EXPERIENCE -- */
+sr.reveal('.experience__card', { interval: 200 })
+
 /* -- SKILLS -- */
 sr.reveal('.skills__subtitle', {})
 sr.reveal('.skills__name', { distance: '20px', delay: 50, interval: 100 })
